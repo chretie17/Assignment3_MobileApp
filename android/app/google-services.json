@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "59030283509",
+    "project_id": "enhanced-layout-388519",
+    "storage_bucket": "enhanced-layout-388519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59030283509:android:efeea5065345a71c3a91bc",
+        "android_client_info": {
+          "package_name": "com.example.navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59030283509-74irdpt09chtn76lf4dpn8j0jpm7a8bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd4DB98_iLykgQGJhA-sZBKjhFbAyueZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59030283509-74irdpt09chtn76lf4dpn8j0jpm7a8bo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59030283509-gi8grqpl2ibosc9vh1j2nlbpuua0kq14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.navigation.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
